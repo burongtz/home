@@ -16,8 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ```bash
 # Remove dist from .gitignore file.
-yarn build
-npx next export -o dist
-# Commit changes in dist/.
-git subtree push --prefix dist origin gh-pages
+yarn ph-pages
 ```
