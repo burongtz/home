@@ -13,6 +13,6 @@ const NavBar = () => (
             </Toolbar>
         </AppBar>
     </React.Fragment>
-)
+);
 
 export default NavBar;
