@@ -1,7 +1,9 @@
 import NavBar from '../components/navbar';
 
-export default () => (
+const Header = () => (
     <header>
         <NavBar />
     </header>
-)
+);
+
+export default Header;
