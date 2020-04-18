@@ -3,7 +3,7 @@ import AppBar from '@material-ui/core/AppBar'
 import Toolbar from '@material-ui/core/Toolbar'
 import Typography from '@material-ui/core/Typography'
 
-export default () => (
+const NavBar = () => (
     <React.Fragment>
         <AppBar position="static">
             <Toolbar>
@@ -14,3 +14,5 @@ export default () => (
         </AppBar>
     </React.Fragment>
 )
+
+export default NavBar;
