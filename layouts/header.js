@@ -1,5 +1,7 @@
+import NavBar from '../components/navbar';
+
 export default () => (
     <header>
-        Header
+        <NavBar />
     </header>
 )
