@@ -16,5 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ```bash
 # Remove dist from .gitignore file.
-yarn ph-pages
+yarn pg-pages
 ```
